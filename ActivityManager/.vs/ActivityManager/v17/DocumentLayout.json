@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A828F63-C175-4A19-90FD-B01AB597A831}|ActivityManager\\ActivityManager.csproj|c:\\users\\annam\\documents\\gso23-24\\repos\\activitymanager\\activitymanager\\activitymanager\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A828F63-C175-4A19-90FD-B01AB597A831}|ActivityManager\\ActivityManager.csproj|solutionrelative:activitymanager\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A828F63-C175-4A19-90FD-B01AB597A831}|ActivityManager\\ActivityManager.csproj|c:\\users\\annam\\documents\\gso23-24\\repos\\activitymanager\\activitymanager\\activitymanager\\bearbeitenfenster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A828F63-C175-4A19-90FD-B01AB597A831}|ActivityManager\\ActivityManager.csproj|solutionrelative:activitymanager\\bearbeitenfenster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A828F63-C175-4A19-90FD-B01AB597A831}|ActivityManager\\ActivityManager.csproj|c:\\users\\annam\\documents\\gso23-24\\repos\\activitymanager\\activitymanager\\activitymanager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A828F63-C175-4A19-90FD-B01AB597A831}|ActivityManager\\ActivityManager.csproj|solutionrelative:activitymanager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A828F63-C175-4A19-90FD-B01AB597A831}|ActivityManager\\ActivityManager.csproj|c:\\users\\annam\\documents\\gso23-24\\repos\\activitymanager\\activitymanager\\activitymanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A828F63-C175-4A19-90FD-B01AB597A831}|ActivityManager\\ActivityManager.csproj|solutionrelative:activitymanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A828F63-C175-4A19-90FD-B01AB597A831}|ActivityManager\\ActivityManager.csproj|c:\\users\\annam\\documents\\gso23-24\\repos\\activitymanager\\activitymanager\\activitymanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A828F63-C175-4A19-90FD-B01AB597A831}|ActivityManager\\ActivityManager.csproj|solutionrelative:activitymanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BearbeitenFenster.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\ActivityManager\\BearbeitenFenster.cs",
+              "RelativeDocumentMoniker": "ActivityManager\\BearbeitenFenster.cs",
+              "ToolTip": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\ActivityManager\\BearbeitenFenster.cs [Entwurf]",
+              "RelativeToolTip": "ActivityManager\\BearbeitenFenster.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:08:19.873Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\ActivityManager\\DataManager.cs",
+              "RelativeDocumentMoniker": "ActivityManager\\DataManager.cs",
+              "ToolTip": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\ActivityManager\\DataManager.cs",
+              "RelativeToolTip": "ActivityManager\\DataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:55:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\ActivityManager\\Activity.cs",
+              "RelativeDocumentMoniker": "ActivityManager\\Activity.cs",
+              "ToolTip": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\ActivityManager\\Activity.cs",
+              "RelativeToolTip": "ActivityManager\\Activity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:35:54.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\ActivityManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ActivityManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\ActivityManager\\Form1.cs",
+              "RelativeToolTip": "ActivityManager\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAApwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:35:16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\ActivityManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ActivityManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\annam\\Documents\\GSO23-24\\repos\\ActivityManager\\ActivityManager\\ActivityManager\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "ActivityManager\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:32:46.977Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
